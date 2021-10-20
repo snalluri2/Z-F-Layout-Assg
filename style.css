@@ -1,6 +1,5 @@
 .home{
     width: 50%;
-    align: center;
     padding-left: 200px;
 }
 .image{
@@ -12,12 +11,6 @@ header{
     padding: 3px;
     background-color: darkslategray;
     color: black;
-}
-footer {
-    text-align: center;
-    padding: 3px;
-    background-color: DarkSalmon;
-    color: white;
 }
 body{
     background-color: lightseagreen;
